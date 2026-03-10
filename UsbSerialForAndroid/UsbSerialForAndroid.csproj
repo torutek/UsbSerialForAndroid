@@ -1,7 +1,7 @@
-<Project Sdk="Xamarin.Legacy.Sdk/0.2.0-alpha4">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net6.0-android;net7.0-android;monoandroid5.0</TargetFrameworks>
-    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+    <TargetFramework>net9.0-android35.0</TargetFramework>
+    <SupportedOSPlatformVersion>33.0</SupportedOSPlatformVersion>
     <Nullable>disable</Nullable>
     <ImplicitUsings>disable</ImplicitUsings>
     <AssemblyName>Android.UsbSerial</AssemblyName>
